@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K. Yuvaraja
+# 👋 Hi, I'm Yuvaraja K
 
 ### Data Analyst | Python Developer | AI & Data Science
 
