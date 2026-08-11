@@ -60,6 +60,24 @@ An academic project exploring the application of Graph Neural Networks to drug d
 
 ---
 
+## 🚗 Accident Detection Using CNN
+
+**Python | CNN | Deep Learning | Computer Vision**
+
+A deep learning project focused on using Convolutional Neural Networks to detect accidents from visual data.
+
+**Focus Areas:**
+
+- Image preprocessing
+- Convolutional Neural Networks
+- Computer vision
+- Accident detection
+- Image classification
+- Deep learning model training
+- Model evaluation
+
+---
+
 ### 🤖 Disease Prediction Assistant
 
 **Python | Machine Learning | Data Analysis**
